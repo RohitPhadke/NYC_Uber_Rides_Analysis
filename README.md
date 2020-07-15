@@ -11,14 +11,10 @@ Early in 2017, the NYC Taxi and Limousine Commission [(TLC)](http://www.nyc.gov/
 * attempt to predict the demand's growth beyond 2015 [IN PROGRESS]
 
 
-## **Publication**
-The analysis and visualizations produced in the Jupyter Notebook provide support for the story to be presented in the project's page (refer to link when available).
-
-
 
 ## **Required Packages**
 
-The code is written in a Jupyter Notebook with a Python 2.7 kernel, and in addition it requires the following packages:
+The code is written in a Jupyter Notebook with a Python 3.7 kernel, and in addition it requires the following packages:
 
 * [Numpy](http://numpy.org) (version: 1.11.2)
 * [Pandas ](http://pandas.pydata.org)(version: 0.19.2)
